@@ -7,6 +7,6 @@
 
  <circle cx="150" cy="100" r="80" fill="yellow" />
 
- <text x="150" y="110" font-size="60" text-anchor="middle" fill="black">A1</text>
+ <text x="150" y="110" font-size="60" text-anchor="middle" fill="black">Bob Allen</text>
 
 </svg>
